@@ -14,7 +14,7 @@ Inspired from https://github.com/owl4ce
       <samp>
          <a href="mailto:janleigh@pm.me" target="_blank">pm.me</a> &#8226;
          <a href="https://ko-fi.com/janleigh" target="_blank">ko-fi</a> &#8226;
-         <a href="https://janleigh.tech" target="_blank">site</a>
+         <a href="https://janleigh.is-a.dev" target="_blank">site</a>
       </samp>
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
