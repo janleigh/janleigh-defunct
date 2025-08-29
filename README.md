@@ -4,7 +4,7 @@
 ```
 
 ```markdown
-  1 │ # About Jan Leigh
+  1 │ # About Me
   2 │ 
   3 │ Hey there! 👋 I'm Jan Leigh!
   4 │ 
@@ -52,10 +52,6 @@ Fetching coding activity data...
 </details>
 
 ```bash
-┌─[janleigh@github]─[~]
-└──╼ $ echo "Building the web, one commit at a time ✨"
-Building the web, one commit at a time ✨
-
 ┌─[janleigh@github]─[~]
 └──╼ $ exit
 Connection to github.com closed.
